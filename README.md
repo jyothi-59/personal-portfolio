@@ -8,3 +8,13 @@ This project represents my first step in building and showcasing web projects.
 ## Technologies
 - HTML
 - CSS
+
+
+
+
+## 🔗 Professional Profile
+
+For a complete overview of my learning journey, certifications, and projects, please visit my LinkedIn profile:
+
+- **LinkedIn:**   https://www.linkedin.com/in/naga-jyothi-vasa
+- **GitHub:** https://github.com/jyothi-59
