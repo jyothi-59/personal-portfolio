@@ -12,7 +12,7 @@ This project represents my first step in building and showcasing web projects.
 
 
 
-## 🔗 Professional Profile
+## 🔗 Connect with Me
 
 For a complete overview of my learning journey, certifications, and projects, please visit my LinkedIn profile:
 
